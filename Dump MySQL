@@ -1,0 +1,3 @@
+mysql -ucmsuser -pcms073 greenwichotel < greenwichotel.2017.06.02.16.49.sql   ---   Залить дамп
+
+mysqldump -ucmsuser -pcms073 greenwichotel > greenwichotel.2017.06.02.12.24.sql --- Сделать дамп
